@@ -24,6 +24,14 @@ body {
   height: auto;
 }
 
+.cart-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid white;
+  line-height: 1px;
+}
+
 .navbar {
   background-color: white;
   padding: 20px;
